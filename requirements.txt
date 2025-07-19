@@ -1,3 +1,10 @@
 langchain
 accelerate
 transformers
+python-dotenv
+streamlit
+pandas
+numpy
+PyPDF2
+
+-e .

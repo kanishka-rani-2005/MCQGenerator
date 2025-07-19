@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: MCQGENERATOR
+Version: 0.0.1
+Author: Kanishka Rani
+Author-email: kanishka22043@gmail.com
+Requires-Dist: transformers
+Requires-Dist: accelerate
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

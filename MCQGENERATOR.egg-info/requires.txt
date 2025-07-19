@@ -1,0 +1,8 @@
+transformers
+accelerate
+langchain
+streamlit
+python-dotenv
+PyPDF2
+pandas
+numpy
