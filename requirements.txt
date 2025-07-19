@@ -1,10 +1,8 @@
-langchain
-accelerate
-transformers
-python-dotenv
+transformers>=4.40.0
+langchain>=0.1.0
 streamlit
+python-dotenv
+PyPDF2
 pandas
 numpy
-PyPDF2
-
 -e .
